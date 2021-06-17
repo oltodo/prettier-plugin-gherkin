@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`scenario_outline_with_docstring.feature - gherkin-verify: scenario_outline_with_docstring.feature 1`] = `
+Feature: Scenario Outline with a docstring
+
+  Scenario Outline: Greetings come in many forms
+    Given this file:
+      """<type>
+      Greeting:<content>
+      """
+
+    Examples:
+      | type  | content |
+      | en    | Hello   |
+      | fr    | Bonjour |
+`;

@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spaces_in_language.feature - gherkin-verify: spaces_in_language.feature 1`] = `
+# language: en-lol
+
+OH HAI: STUFFING
+`;

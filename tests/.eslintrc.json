@@ -1,5 +1,8 @@
 {
   "env": {
     "jest": true
+  },
+  "globals": {
+    "run_spec": true
   }
 }

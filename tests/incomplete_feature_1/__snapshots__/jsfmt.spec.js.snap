@@ -1,0 +1,6 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`incomplete_feature_1.feature - gherkin-verify: incomplete_feature_1.feature 1`] = `
+Feature: Just a description
+  A short description
+`;

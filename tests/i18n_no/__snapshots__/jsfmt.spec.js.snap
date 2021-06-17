@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`i18n_no.feature - gherkin-verify: i18n_no.feature 1`] = `
+#language:no
+
+Egenskap: i18n support
+
+  Scenario: Parsing many languages
+    Gitt Gherkin supports many languages
+    Når Norwegian keywords are parsed
+    Så they should be recognized
+`;

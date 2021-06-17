@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`i18n_emoji.feature - gherkin-verify: i18n_emoji.feature 1`] = `
+# language: em
+
+📚: 🙈🙉🙊
+
+  📕: 💃
+    😐 🎸
+`;

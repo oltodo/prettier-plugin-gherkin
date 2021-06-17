@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tagged_feature_with_scenario_outline.feature - gherkin-verify: tagged_feature_with_scenario_outline.feature 1`] = `
+@sometag
+Feature: Foo
+
+  Scenario Outline: Bar
+    Then Baz
+
+    Examples:
+      | name |
+      | X    |
+      | Y    |
+`;

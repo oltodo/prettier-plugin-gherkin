@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`incomplete_scenario.feature - gherkin-verify: incomplete_scenario.feature 1`] = `
+Feature: Incomplete scenarios
+
+  Background: Adding a background won't make a pickle
+    * a step
+
+  Scenario: no steps
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`scenario_outline_with_value_with_dollar_sign.feature - gherkin-verify: scenario_outline_with_value_with_dollar_sign.feature 1`] = `
+Feature: Scenario Outline with a value with a dollar sign ($)
+
+  Scenario Outline: minimalistic
+    Given the <what>
+
+    Examples:
+      | what     |
+      | pa$$word |
+`;

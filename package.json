@@ -42,5 +42,11 @@
       "prettier --write --ignore-unknown",
       "git add"
     ]
+  },
+  "prettier": {
+    "plugins": [
+      "."
+    ],
+    "trailingComma": "none"
   }
 }

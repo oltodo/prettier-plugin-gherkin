@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rule_without_name_and_description.feature - gherkin-verify: rule_without_name_and_description.feature 1`] = `
+Feature:
+
+  Rule:
+
+    Scenario:
+      Given text
+`;

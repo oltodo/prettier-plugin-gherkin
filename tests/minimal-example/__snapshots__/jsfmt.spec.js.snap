@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`minimal-example.feature - gherkin-verify: minimal-example.feature 1`] = `
+Feature: Minimal
+
+  Example: minimalistic
+    Given the minimalism
+`;

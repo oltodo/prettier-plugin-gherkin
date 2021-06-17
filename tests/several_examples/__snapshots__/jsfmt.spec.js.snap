@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`several_examples.feature - gherkin-verify: several_examples.feature 1`] = `
+Feature: Tagged Examples
+
+  Scenario Outline: minimalistic
+    Given the <what>
+
+    @foo
+    Examples:
+      | what |
+      | foo  |
+
+    @bar
+    Examples:
+      | what |
+      | bar  |
+
+  @zap
+  Scenario: ha ok
+`;

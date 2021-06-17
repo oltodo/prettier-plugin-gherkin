@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`scenario_outline_no_newline.feature - gherkin-verify: scenario_outline_no_newline.feature 1`] = `
+Feature: Minimal Scenario Outline
+
+  Scenario Outline: minimalistic
+    Given the <what>
+
+    Examples:
+      | what       |
+      | minimalism |
+`;
